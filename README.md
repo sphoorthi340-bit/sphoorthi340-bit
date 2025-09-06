@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashank Sphoorthi  
 
-<!--
-**sphoorthi340-bit/sphoorthi340-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ECE Undergrad** | ⚡ Embedded Systems & IoT | 🔧 VLSI | 🤖 Exploring AI  
 
-Here are some ideas to get you started:
+💡 Passionate about building **hardware + software solutions** and exploring the intersection of electronics and intelligence.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+- 💡 [Blink LED (Arduino IoT)](https://github.com/YOUR-USERNAME/blink-led)  
+- 🤖 [Basic ML Classifier (Python)](https://github.com/YOUR-USERNAME/basic-ml-classifier)  
+- 🌐 [Portfolio Website](https://github.com/YOUR-USERNAME/portfolio-website)  
+
+---
+
+## 🛠️ Skills & Tools
+- **Hardware**: Arduino, IoT, Embedded C  
+- **Software**: Python, C, Verilog  
+- **Special Interests**: VLSI Design, AI integration with IoT  
+- **Tools**: Git, VS Code, Arduino IDE  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@sphoorthi340-bit](https://github.com/sphoorthi340-bit)  
+- Email: Sphoorthi340@gmail.com  
+
+---
+
+⭐ *Currently applying to hackathons & exploring open-source contributions!*  
