@@ -171,9 +171,9 @@ Flagship Project         (GER/SGP/USA)         Embedded AI /
 
 <div align="center">
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sphoorthi340-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphoorthi340-bit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=sphoorthi340-bit&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sphoorthi340-bit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6&cache_seconds=1800)
 
 </div>
 
