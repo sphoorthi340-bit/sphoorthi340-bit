@@ -183,7 +183,7 @@ Flagship Project         (GER/SGP/USA)         Embedded AI /
 I'm always open to conversations about **edge AI, embedded systems architecture, IoT security, and AIoT research**. If you're working on something at the intersection of hardware and intelligence — reach out.
 
 - 📧 **Email:** [Sphoorthi340@gmail.com](mailto:Sphoorthi340@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/shashank-sphoorthi/)
 - 🐙 **GitHub:** [@sphoorthi340-bit](https://github.com/sphoorthi340-bit)
 
 ---
