@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank_Sphoorthi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shashank-sphoorthi/)
 [![Email](https://img.shields.io/badge/Email-Sphoorthi340%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:Sphoorthi340@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=flat-square&logo=github)](https://github.com/sphoorthi340-bit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00c8ff?style=flat-square&logo=vercel)](https://sphoorthi340-bit.github.io/Tech-Portfolio-Website/)
 [![Location](https://img.shields.io/badge/📍-Hyderabad,_India-1f6feb?style=flat-square)](#)
 
 </div>
