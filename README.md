@@ -36,7 +36,7 @@ I'm actively targeting **MS programs in Embedded Systems / AIoT / Intelligent Sy
 > *Kaggle × Google DeepMind "Gemma 4 Good" Hackathon, 2026*
 
 [![Repo](https://img.shields.io/badge/GitHub-Sahayak-181717?style=flat-square&logo=github)](https://github.com/sphoorthi340-bit/sahayak)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/fTYM_cO4mZo?si=PV0i1dq9V3y_T1RN)
+
 [![Stack](https://img.shields.io/badge/Stack-ESP32_%7C_Gemma_4_%7C_FastAPI_%7C_React-555?style=flat-square)](#)
 
 A full-stack AIoT system purpose-built for disaster scenarios where cellular infrastructure collapses. Designed around the 2024 Wayanad Landslides — where towers failed within minutes — Sahayak keeps communities connected when everything else goes dark.
